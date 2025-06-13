@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://juejin.cn/user/1996368848619005" target="_blank"><img  align=center src="https://img.shields.io/badge/掘金-博客-%231677ff?style=flat"/></a>
-<a href="https://gitee.com/maskpeople" target="_blank"><img  align=center src="https://img.shields.io/badge/码云-Gitee-%231677ff?style=flat"/></a>
+<a href="https://gitee.com/maskpeople" target="_blank"><img  align=center src="https://img.shields.io/badge/码云-Gitee-%23c71d23?style=flat"/></a>
 
 ## 技术栈 ⚒️
 
