@@ -1,12 +1,11 @@
-
-## Hi there 👋
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouthernPenguin/SouthernPenguin/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouthernPenguin/SouthernPenguin/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SouthernPenguin/SouthernPenguin/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture> 
 
+
+## Hi there 👋
 
 
 <a href="https://juejin.cn/user/1996368848619005" target="_blank"><img  align=center src="https://img.shields.io/badge/掘金-博客-%231677ff?style=flat"/></a>
