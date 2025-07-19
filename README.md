@@ -1,7 +1,13 @@
 
 ## Hi there 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/SouthernPenguin/SouthernPenguin/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/SouthernPenguin/SouthernPenguin/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouthernPenguin/SouthernPenguin/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouthernPenguin/SouthernPenguin/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SouthernPenguin/SouthernPenguin/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture> 
+
+
 
 <a href="https://juejin.cn/user/1996368848619005" target="_blank"><img  align=center src="https://img.shields.io/badge/掘金-博客-%231677ff?style=flat"/></a>
 <a href="https://gitee.com/maskpeople" target="_blank"><img  align=center src="https://img.shields.io/badge/码云-Gitee-%23c71d23?style=flat"/></a>
